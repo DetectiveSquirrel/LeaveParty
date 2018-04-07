@@ -1,5 +1,4 @@
 # LeaveParty
-LeaveParty
 
 Just a simple plugin to leave party. There is a single setting to bind a key that, when pressed, do the following:
 
