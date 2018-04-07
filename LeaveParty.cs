@@ -32,6 +32,8 @@ namespace LeaveParty
                 return;
             
             LeaveCurrentParty();
+
+            Keyboard.KeyPress(Settings.LeaveHotkey.Value);
         }
 
         private void LeaveCurrentParty()
